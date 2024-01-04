@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    max-width: 100%;
+    padding: 20px 30px;
+    min-height: 100vh;
+    /* background-color: bisque; */
+    background-image: url(https://travel.discoverybangladesh.com/images/mymensingh.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    opacity: 0.8  #4a0f0f;
+
+}
+.hero h1{
+    /* text-align: center; */
+    font-size: 72px;
+    font-family: 'Roboto';
+    color: azure;
+    /* display: inline-block; */
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color:#4a0f0f;
+    /* background-size: fix-content; */
+    padding: 8px 23px;
+}
